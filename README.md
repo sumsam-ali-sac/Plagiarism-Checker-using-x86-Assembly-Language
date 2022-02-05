@@ -14,11 +14,15 @@ Schools are making use of software systems, in addition to the existing and very
 # Problem Definition:
 
 Plagiarism is a form of cheating and is a serious academic offence. It arises where work submitted by a student is not their own and has been taken from another source. The original material is then hidden from the marker, either by not referencing it properly, by paraphrasing it or by not mentioning it at all. 
-== The most common forms of plagiarism are: ==
+==The most common forms of plagiarism are:==
 1.Copying
+
 2.Self-plagiarism (also called auto-plagiarism)
+
 3.Collusion
+
 4.Fabrication or misrepresentation
+
 5.Commissioning work / buying essays and software
 
 Plagiarism may occur in a number of other forms, as Ill as in conventional written work. Another student may be involved hence our program deals with copying which is one of the most prominent forms of plagiarism.
