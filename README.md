@@ -42,7 +42,7 @@ After declaration of all necessary data in the data segment in the code segment 
 Plagiarism remains an ongoing issue in publishing and in academia. The software programs are available to detect similarities to published content for example previously submitted student papers, thesis, and websites. These software programs can assist writers with identifying instances of ‘unintentional’ plagiarism, and help editors to identify all types of plagiarism. These Software programs can be extremely helpful in detecting and counseling authors about plagiarism. But the software is not enough,
 multiple and ongoing strategies are needed, otherwise there will be pervasive cheating and lack of integrity in future generations of scientists and other professionals.
 
-#References:
+# References:
 
 1. [Brinkman, B. (2013). An analysis of student privacy rights in the use of plagiarism detection systems.
 Science and Engineering Ethics, 19(3), 1255– 1266.](https://link.springer.com/article/10.1007/s11948-012-9370-y)
